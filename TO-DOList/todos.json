@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "task": "Learn Go",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "task": "Deploy project",
+    "completed": true
+  },
+  {
+    "id": 4,
+    "task": "Todo done",
+    "completed": false
+  }
+]
